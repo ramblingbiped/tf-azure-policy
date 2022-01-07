@@ -43,7 +43,7 @@ resource-group-assignment
 
 #### Assigning the Policy to the target Resource Group:
 
-> :info: The `policy_effect` variable maps to the `effect` parameter of the Policy, and dictates the state of the Policy assignment. The default value of "*Audit*" will inform on compliance, but not enforce the policy. The "*Deny*" value will enforce the policy upon assignment. The "*Disable*" value will disable the assigned policy.
+> The `policy_effect` variable maps to the `effect` parameter of the Policy, and dictates the state of the Policy assignment. The default value of "*Audit*" will inform on compliance, but not enforce the policy. The "*Deny*" value will enforce the policy upon assignment. The "*Disable*" value will disable the assigned policy.
 
 <br/>
 
@@ -90,7 +90,7 @@ subscription-assignment
 
 <br/>
 
-> :info: The `policy_effect` variable maps to the `effect` parameter of the Policy, and dictates the state of the Policy assignment. The default value of "*Audit*" will inform on compliance, but not enforce the policy. The "*Deny*" value will enforce the policy upon assignment. The "*Disable*" value will disable the assigned policy.
+> The `policy_effect` variable maps to the `effect` parameter of the Policy, and dictates the state of the Policy assignment. The default value of "*Audit*" will inform on compliance, but not enforce the policy. The "*Deny*" value will enforce the policy upon assignment. The "*Disable*" value will disable the assigned policy.
 
 <br/>
 
